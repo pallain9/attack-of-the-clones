@@ -9,13 +9,12 @@
 **Call Sign:** JC
 
 ----
-
 # Clone Army
 
 ## Peter Allain
 
-**Rank:**
+**Rank:** Private
 
-**designation:** PFC-2944
+**Designation:** PFC-2944
 
 **Call Sign:** PA
